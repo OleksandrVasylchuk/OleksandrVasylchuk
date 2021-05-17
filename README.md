@@ -28,6 +28,7 @@ Hi everyone, my name's Oleksandr 👋
 
 
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OleksandrVasylchuk&theme=buefy&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OleksandrVasylchuk&theme=buefy&show_icons=true)
 
-[Profile views](https://gpvc.arturio.dev/OleksandrVasylchuk)
+
+
