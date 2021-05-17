@@ -3,7 +3,7 @@
 
 Hi everyone, my name's Oleksandr 👋
 
-👨🏻‍🎓 I’m currently studying and I'm learning JavaScript
+👨🏻‍💻 I’m currently studying and I'm learning  JavaScript 
 
 ✍🏻 Workout everyday!
 
