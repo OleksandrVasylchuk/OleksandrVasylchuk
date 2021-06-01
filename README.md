@@ -30,5 +30,6 @@ Hi everyone, my name's Oleksandr 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OleksandrVasylchuk&theme=buefy&show_icons=true)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OleksandrVasylchuk&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrVasylchuk&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
