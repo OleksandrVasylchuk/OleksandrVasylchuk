@@ -8,7 +8,7 @@ Hi everyone, my name's Oleksandr 🤵
 
 🎸 I love to play the guitar
 
-🚘 I like to drive a car
+🚗 I like to drive a car
 
 🥅 I am constantly learning new things
 
