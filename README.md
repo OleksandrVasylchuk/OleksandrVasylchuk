@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi everyone,👋 my name's Oleksandr 🤵
+
 ![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
-
-
-Hi everyone, my name's Oleksandr 🤵
 
 👨🏻‍💻 I’m currently studying and I'm learning  JavaScript 
 
@@ -14,7 +12,8 @@ Hi everyone, my name's Oleksandr 🤵
 
 ✍🏻 Workout everyday!
 
- ### 👨 My profile: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-vasylchuk)
+ ### 👨 My profile: 
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-vasylchuk)
 
 ### My stack and tools:
 
