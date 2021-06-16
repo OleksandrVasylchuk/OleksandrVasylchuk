@@ -6,6 +6,10 @@ Hi everyone, my name's Oleksandr 👋
 
 👨🏻‍💻 I’m currently studying and I'm learning  JavaScript 
 
+🎉 I love to play the guitar
+
+🥅 I am constantly learning new things
+
 ✍🏻 Workout everyday!
 
 
