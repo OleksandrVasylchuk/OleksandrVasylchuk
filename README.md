@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
 
 
@@ -14,9 +14,7 @@ Hi everyone, my name's Oleksandr 🤵
 
 ✍🏻 Workout everyday!
 
- #### 👨 My profile:
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-vasylchuk)
+ ### 👨 My profile: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-vasylchuk)
 
 ### My stack and tools:
 
@@ -36,7 +34,7 @@ Hi everyone, my name's Oleksandr 🤵
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OleksandrVasylchuk&show_icons=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrVasylchuk&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
