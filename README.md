@@ -2,11 +2,13 @@
 ![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
 
 
-Hi everyone, my name's Oleksandr 👋
+Hi everyone, my name's Oleksandr 🤵
 
 👨🏻‍💻 I’m currently studying and I'm learning  JavaScript 
 
-🎉 I love to play the guitar
+🎸 I love to play the guitar
+
+🏎 I like to drive a car
 
 🥅 I am constantly learning new things
 
