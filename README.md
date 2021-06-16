@@ -4,11 +4,11 @@
 
 👨🏻‍💻 I’m currently studying and I'm learning  JavaScript 
 
+🥅 I am constantly learning new things
+
 🎸 I love to play the guitar
 
 🚗 I like to drive a car
-
-🥅 I am constantly learning new things
 
 ✍🏻 Workout everyday!
 
