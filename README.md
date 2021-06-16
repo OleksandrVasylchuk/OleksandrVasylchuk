@@ -3,9 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
 
 👨🏻‍💻 I’m currently studying and I'm learning  JavaScript 
+
 🥅 I am constantly learning new things
+
 🎸 I love to play the guitar
+
 🚗 I like to drive a car
+
 ✍🏻 Workout everyday!
 
  ### 👨 My profile: 
