@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=dc143c)
+![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
 
 
 Hi everyone, my name's Oleksandr 👋
