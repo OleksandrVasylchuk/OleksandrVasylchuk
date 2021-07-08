@@ -10,7 +10,7 @@
 
  ### 👨 My profile: 
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-vasylchuk)
-  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-sanyabatyushka@gmail.com-000C66?style=for-the-badge&logo=gmail&link=mailto:sanyabatyushka@gmail.com)](mailto:sanyabatyushka@gmail.com)
+  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-000C66?style=for-the-badge&logo=gmail&link=mailto:sanyabatyushka@gmail.com)](mailto:sanyabatyushka@gmail.com)
 <!--   [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-sanyabatyushka@gmail.com-000C66?style=for-the-badge&logo=gmail&logoColor=red)](link=mailto:sanyabatyushka@gmail.com) -->
 
 ### My stack and tools:
