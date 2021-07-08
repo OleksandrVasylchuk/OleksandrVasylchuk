@@ -8,7 +8,7 @@
 🚗 I like to drive a car                                                                                                                                                         
 ✍🏻 Workout everyday!
 
- ### 👨 My profile: 
+ ### 📫 How to reach me:
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-vasylchuk)
   [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-050A30?style=for-the-badge&logo=gmail&link=mailto:sanyabatyushka@gmail.com)](mailto:sanyabatyushka@gmail.com)
 
