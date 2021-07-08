@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
 
-👨🏻‍💻 I’m currently studying and I'm learning  React                                                                                                                           
+👨🏻‍💻 I’m currently studying and I'm learning  ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)                                                                                                                           
 🥅 I am constantly learning new things                                                                                                                                           
 🎸 I love to play the guitar                                                                                                                                                     
 🚗 I like to drive a car                                                                                                                                                         
@@ -10,6 +10,7 @@
 
  ### 👨 My profile: 
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-vasylchuk)
+  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](link=mailto:a.sanyabatyushka@gmail.com)
 
 ### My stack and tools:
 
