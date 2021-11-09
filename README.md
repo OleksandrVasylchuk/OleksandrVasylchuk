@@ -1,4 +1,4 @@
-## Hi everyone,👋 my name's Oleksandr 🤵
+## <h1>Hi everyone, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name's Oleksandr 🤵</h1>
 
 ![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
 
