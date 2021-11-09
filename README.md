@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
 
-<div align="center">
-		<img src="header.svg" width="1200" height="300" alt="readme">
+
+<img src="header.svg" width="1200" height="300" alt="readme">
   👨🏻‍💻 I’m currently studying and I'm learning  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
   ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)                                                                                                                       
@@ -11,7 +11,7 @@
 🎸 I love to play the guitar                                                                                                                                                     
 🚗 I like to drive a car                                                                                                                                                         
 ✍🏻 Workout everyday!
-</div>
+
 
 
  ### 📫 How to reach me:
