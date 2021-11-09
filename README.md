@@ -2,11 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
 
-
-<img src="header.svg" width="1200" height="300" alt="readme">
-  👨🏻‍💻 I’m currently studying and I'm learning  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)                                                                                                                       
+👨🏻‍💻 I’m currently studying and I'm learning  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
+![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)                                                                                                                       
 🥅 I am constantly learning new things                                                                                                                                           
 🎸 I love to play the guitar                                                                                                                                                     
 🚗 I like to drive a car                                                                                                                                                         
