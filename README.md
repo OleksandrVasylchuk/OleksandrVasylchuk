@@ -58,13 +58,13 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OleksandrVasylchuk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrVasylchuk&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top languages" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=OleksandrVasylchuk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" height="160"/>
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=OleksandrVasylchuk&theme=dark&hide_border=true" alt="GitHub streak" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OleksandrVasylchuk&theme=github_dark" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OleksandrVasylchuk&theme=github_dark" height="160"/>
 </p>
 
 ---
