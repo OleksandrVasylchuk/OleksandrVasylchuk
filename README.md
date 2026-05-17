@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=OleksandrVasylchuk&color=0e75b6&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
-> **Frontend Developer** · JavaScript · PHP · Kyiv, Ukraine 🇺🇦
+> 🚀 **Senior Full Stack Developer · Tech Lead** · Kyiv, Ukraine 🇺🇦
 
 ---
 
@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -53,8 +54,13 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OleksandrVasylchuk&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrVasylchuk&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OleksandrVasylchuk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrVasylchuk&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top languages" height="160"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=OleksandrVasylchuk&theme=dark&hide_border=true" alt="GitHub streak" height="160"/>
 </p>
 
 ---
